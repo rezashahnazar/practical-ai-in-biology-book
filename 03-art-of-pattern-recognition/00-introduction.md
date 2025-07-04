@@ -8,12 +8,16 @@
 
 ### بخش‌های این فصل:
 
-- [**بخش ۳-۱: الگوها در دنیای زنده: از اکوسیستم تا ژنوم**](./ch3-sec1.md)
-- [**بخش ۳-۲: جستجوی هوشمند در توالی‌ها: داستان BLAST**](./ch3-sec2.md)
-- [**بخش ۳-۳: ساختن درخت زندگی: فیلوژنتیک مولکولی**](./ch3-sec3.md)
-- [**بخش ۳-۴: مطالعه موردی: ردیابی ویروس‌ها در زمان واقعی**](./ch3-sec4.md)
-- [**بخش ۳-۵: شبیه‌سازی: یک جستجوی BLAST روی کاغذ**](./ch3-sec5.md)
+- [**بخش ۳-۱: الگوها در دنیای زنده: از اکوسیستم تا ژنوم**](./01-patterns-in-living-world.md)
+- [**بخش ۳-۲: جستجوی هوشمند در توالی‌ها: داستان BLAST**](./02-intelligent-sequence-search-blast.md)
+- [**بخش ۳-۳: ساختن درخت زندگی: فیلوژنتیک مولکولی**](./03-building-tree-of-life-phylogenetics.md)
+- [**بخش ۳-۴: مطالعه موردی: ردیابی ویروس‌ها در زمان واقعی**](./04-case-study-real-time-virus-tracking.md)
+- [**بخش ۳-۵: شبیه‌سازی: یک جستجوی BLAST روی کاغذ**](./05-simulation-blast-on-paper.md)
 
 ---
 
-- [**آزمون تحلیلی فصل سوم**](./chapter-3-exam/main-questions.md)
+- [**آزمون تحلیلی فصل سوم**](./exam/index.md)
+  - [سناریو ۱: سوالات](./exam/scenario-01-questions.md) | [پاسخنامه سناریو ۱](./exam/scenario-01-answers.md)
+  - [سناریو ۲: سوالات](./exam/scenario-02-questions.md) | [پاسخنامه سناریو ۲](./exam/scenario-02-answers.md)
+  - [سناریو ۳: سوالات](./exam/scenario-03-questions.md) | [پاسخنامه سناریو ۳](./exam/scenario-03-answers.md)
+  - [سناریو ۴: سوالات](./exam/scenario-04-questions.md) | [پاسخنامه سناریو ۴](./exam/scenario-04-answers.md)

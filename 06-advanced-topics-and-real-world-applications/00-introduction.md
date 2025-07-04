@@ -8,12 +8,16 @@
 
 ### بخش‌های این فصل:
 
-- [**بخش ۶-۱: پیش‌بینی مقادیر پیوسته: مدل‌های رگرسیون**](./ch6-sec1.md)
-- [**بخش ۶-۲: شیرجه به عمق: مقدمه‌ای بر یادگیری عمیق (Deep Learning)**](./ch6-sec2.md)
-- [**بخش ۶-۳: مطالعه موردی: طراحی مولکول‌های دارو با هوش مصنوعی**](./ch6-sec3.md)
-- [**بخش ۶-۴: اخلاق در هوش مصنوعی زیستی: فراتر از کد**](./ch6-sec4.md)
-- [**بخش ۶-۵: پروژه: پیش‌بینی پایداری پروتئین**](./ch6-sec5.md)
+- [**بخش ۶-۱: پیش‌بینی مقادیر پیوسته: مدل‌های رگرسیون**](./01-predicting-continuous-values-regression.md)
+- [**بخش ۶-۲: شیرجه به عمق: مقدمه‌ای بر یادگیری عمیق (Deep Learning)**](./02-deep-dive-into-deep-learning.md)
+- [**بخش ۶-۳: مطالعه موردی: طراحی مولکول‌های دارو با هوش مصنوعی**](./03-case-study-drug-molecule-design.md)
+- [**بخش ۶-۴: اخلاق در هوش مصنوعی زیستی: فراتر از کد**](./04-ethics-in-bio-ai.md)
+- [**بخش ۶-۵: پروژه: پیش‌بینی پایداری پروتئین**](./05-project-protein-stability-prediction.md)
 
 ---
 
-- [**آزمون تحلیلی فصل ششم**](./chapter-6-exam/main-questions.md)
+- [**آزمون تحلیلی فصل ششم**](./exam/index.md)
+  - [سناریو ۱: سوالات](./exam/scenario-01-questions.md) | [پاسخنامه سناریو ۱](./exam/scenario-01-answers.md)
+  - [سناریو ۲: سوالات](./exam/scenario-02-questions.md) | [پاسخنامه سناریو ۲](./exam/scenario-02-answers.md)
+  - [سناریو ۳: سوالات](./exam/scenario-03-questions.md) | [پاسخنامه سناریو ۳](./exam/scenario-03-answers.md)
+  - [سناریو ۴: سوالات](./exam/scenario-04-questions.md) | [پاسخنامه سناریو ۴](./exam/scenario-04-answers.md)

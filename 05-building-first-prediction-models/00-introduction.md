@@ -8,12 +8,16 @@
 
 ### بخش‌های این فصل:
 
-- [**بخش ۵-۱: کتابخانه‌های قدرتمند: NumPy، Pandas و Scikit-learn**](./ch5-sec1.md)
-- [**بخش ۵-۲: هنر رام کردن داده‌ها: پاک‌سازی و آماده‌سازی**](./ch5-sec2.md)
-- [**بخش ۵-۳: اولین مدل طبقه‌بندی شما: الگوریتم K-نزدیک‌ترین همسایه (KNN)**](./ch5-sec3.md)
-- [**بخش ۵-۴: مدل ما چقدر خوب کار می‌کند؟ معیارهای ارزیابی**](./ch5-sec4.md)
-- [**بخش ۵-۵: پروژه: ساخت مدل تشخیص سرطان**](./ch5-sec5.md)
+- [**بخش ۵-۱: کتابخانه‌های قدرتمند: NumPy، Pandas و Scikit-learn**](./01-powerful-libraries-numpy-pandas-sklearn.md)
+- [**بخش ۵-۲: هنر رام کردن داده‌ها: پاک‌سازی و آماده‌سازی**](./02-art-of-data-wrangling.md)
+- [**بخش ۵-۳: اولین مدل طبقه‌بندی شما: الگوریتم K-نزدیک‌ترین همسایه (KNN)**](./03-first-classification-model-knn.md)
+- [**بخش ۵-۴: مدل ما چقدر خوب کار می‌کند؟ معیارهای ارزیابی**](./04-model-evaluation-metrics.md)
+- [**بخش ۵-۵: پروژه: ساخت مدل تشخیص سرطان**](./05-project-cancer-detection-model.md)
 
 ---
 
-- [**آزمون تحلیلی فصل پنجم**](./chapter-5-exam/main-questions.md)
+- [**آزمون تحلیلی فصل پنجم**](./exam/index.md)
+  - [سناریو ۱: سوالات](./exam/scenario-01-questions.md) | [پاسخنامه سناریو ۱](./exam/scenario-01-answers.md)
+  - [سناریو ۲: سوالات](./exam/scenario-02-questions.md) | [پاسخنامه سناریو ۲](./exam/scenario-02-answers.md)
+  - [سناریو ۳: سوالات](./exam/scenario-03-questions.md) | [پاسخنامه سناریو ۳](./exam/scenario-03-answers.md)
+  - [سناریو ۴: سوالات](./exam/scenario-04-questions.md) | [پاسخنامه سناریو ۴](./exam/scenario-04-answers.md)

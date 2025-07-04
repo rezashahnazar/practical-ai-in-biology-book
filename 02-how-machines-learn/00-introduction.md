@@ -8,12 +8,16 @@
 
 ### بخش‌های این فصل:
 
-- [**بخش ۲-۱: از مغز انسان تا مغز مصنوعی: داستان شبکه‌های عصبی**](./ch2-sec1.md)
-- [**بخش ۲-۲: یادگیری با معلم: یادگیری تحت نظارت (Supervised Learning)**](./ch2-sec2.md)
-- [**بخش ۲-۳: کشف الگوهای پنهان: یادگیری بدون نظارت (Unsupervised Learning)**](./ch2-sec3.md)
-- [**بخش ۲-۴: مطالعه موردی: آلفافولد و معمای تاشدگی پروتئین**](./ch2-sec4.md)
-- [**بخش ۲-۵: بازی عملی: یک نورون را خودتان آموزش دهید!**](./ch2-sec5.md)
+- [**بخش ۲-۱: از مغز انسان تا مغز مصنوعی: داستان شبکه‌های عصبی**](./01-from-brain-to-ann.md)
+- [**بخش ۲-۲: یادگیری با معلم: یادگیری تحت نظارت (Supervised Learning)**](./02-supervised-learning.md)
+- [**بخش ۲-۳: کشف الگوهای پنهان: یادگیری بدون نظارت (Unsupervised Learning)**](./03-unsupervised-learning.md)
+- [**بخش ۲-۴: مطالعه موردی: آلفافولد و معمای تاشدگی پروتئین**](./04-case-study-alphafold.md)
+- [**بخش ۲-۵: بازی عملی: یک نورون را خودتان آموزش دهید!**](./05-exercise-train-a-neuron.md)
 
 ---
 
-- [**آزمون تحلیلی فصل دوم**](./chapter-2-exam/main-questions.md)
+- [**آزمون تحلیلی فصل دوم**](./exam/index.md)
+  - [سناریو ۱: سوالات](./exam/scenario-01-questions.md) | [پاسخنامه سناریو ۱](./exam/scenario-01-answers.md)
+  - [سناریو ۲: سوالات](./exam/scenario-02-questions.md) | [پاسخنامه سناریو ۲](./exam/scenario-02-answers.md)
+  - [سناریو ۳: سوالات](./exam/scenario-03-questions.md) | [پاسخنامه سناریو ۳](./exam/scenario-03-answers.md)
+  - [سناریو ۴: سوالات](./exam/scenario-04-questions.md) | [پاسخنامه سناریو ۴](./exam/scenario-04-answers.md)

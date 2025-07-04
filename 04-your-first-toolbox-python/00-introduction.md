@@ -8,12 +8,16 @@
 
 ### بخش‌های این فصل:
 
-- [**بخش ۴-۱: سلام، دنیای پایتون! آشنایی با محیط برنامه‌نویسی**](./ch4-sec1.md)
-- [**بخش ۴-۲: متغیرها: قفسه‌هایی برای داده‌های زیستی**](./ch4-sec2.md)
-- [**بخش ۴-۳: کار با رشته‌ها: توالی DNA به عنوان متن**](./ch4-sec3.md)
-- [**بخش ۴-۴: منطق ماشین: حلقه‌ها و شرط‌ها**](./ch4-sec4.md)
-- [**بخش ۴-۵: پروژه: محاسبه محتوای GC**](./ch4-sec5.md)
+- [**بخش ۴-۱: سلام، دنیای پایتون! آشنایی با محیط برنامه‌نویسی**](./01-hello-python-world.md)
+- [**بخش ۴-۲: متغیرها: قفسه‌هایی برای داده‌های زیستی**](./02-variables-for-bio-data.md)
+- [**بخش ۴-۳: کار با رشته‌ها: توالی DNA به عنوان متن**](./03-working-with-strings-dna-sequences.md)
+- [**بخش ۴-۴: منطق ماشین: حلقه‌ها و شرط‌ها**](./04-machine-logic-loops-and-conditions.md)
+- [**بخش ۴-۵: پروژه: محاسبه محتوای GC**](./05-project-gc-content-calculation.md)
 
 ---
 
-- [**آزمون تحلیلی فصل چهارم**](./chapter-4-exam/main-questions.md)
+- [**آزمون تحلیلی فصل چهارم**](./exam/index.md)
+  - [سناریو ۱: سوالات](./exam/scenario-01-questions.md) | [پاسخنامه سناریو ۱](./exam/scenario-01-answers.md)
+  - [سناریو ۲: سوالات](./exam/scenario-02-questions.md) | [پاسخنامه سناریو ۲](./exam/scenario-02-answers.md)
+  - [سناریو ۳: سوالات](./exam/scenario-03-questions.md) | [پاسخنامه سناریو ۳](./exam/scenario-03-answers.md)
+  - [سناریو ۴: سوالات](./exam/scenario-04-questions.md) | [پاسخنامه سناریو ۴](./exam/scenario-04-answers.md)
