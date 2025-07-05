@@ -49,26 +49,44 @@
 بیایید فرآیند خوانش دوگانه را با و بدون هوش مصنوعی مقایسه کنیم:
 
 ```mermaid
-graph TD
-    subgraph A[فرآیند استاندارد خوانش دوگانه]
+flowchart TD
+    %% Style Definitions
+    classDef phase fill:#f8f9fa,stroke:#2c3e50,stroke-width:1.5px,color:#2c3e50
+    classDef input fill:#e1f5fe,stroke:#01579b,stroke-width:1px,color:#01579b
+    classDef process fill:#e6f2e6,stroke:#2e7d32,stroke-width:1px,color:#2e7d32
+    classDef model fill:#f3e8f7,stroke:#6a1b9a,stroke-width:1px,color:#6a1b9a
+
+    %% Standard Double Reading Process
+    subgraph A ["فرآیند استاندارد خوانش دوگانه | Standard Double Reading"]
         direction LR
-        Mammo("تصویر ماموگرافی") --> Rad1("رادیولوژیست ۱");
-        Mammo --> Rad2("رادیولوژیست ۲");
-        Rad1 --> Consensus{تصمیم‌گیری نهایی};
-        Rad2 --> Consensus;
+        Mammo("تصویر ماموگرافی<br>Mammogram") --> Rad1("رادیولوژیست ۱<br>Radiologist 1")
+        Mammo --> Rad2("رادیولوژیست ۲<br>Radiologist 2")
+        Rad1 --> Consensus{تصمیم‌گیری نهایی<br>Final Decision}
+        Rad2 --> Consensus
     end
 
-    subgraph B[فرآیند با کمک هوش مصنوعی]
+    %% AI-Assisted Double Reading Process
+    subgraph B ["فرآیند با کمک هوش مصنوعی | AI-Assisted Reading"]
         direction LR
-        Mammo2("تصویر ماموگرافی") --> Rad1_2("رادیولوژیست ۱");
-        Mammo2 --> AI("هوش مصنوعی (خواننده دوم)");
-        Rad1_2 --> Consensus2{تصمیم‌گیری نهایی};
-        AI --> Consensus2;
+        Mammo2("تصویر ماموگرافی<br>Mammogram") --> Rad1_2("رادیولوژیست ۱<br>Radiologist 1")
+        Mammo2 --> AI("هوش مصنوعی<br>AI (Second Reader)")
+        Rad1_2 --> Consensus2{تصمیم‌گیری نهایی<br>Final Decision}
+        AI --> Consensus2
     end
 
-    A --> B;
+    %% Connections Between Processes
+    A ---|"مقایسه"| B
 
-    style AI fill:#D4E6F1,stroke:#154360,stroke-width:2px
+    %% Apply Styles
+    class A,B phase
+    class Mammo,Mammo2 input
+    class Rad1,Rad2,Rad1_2,Consensus,Consensus2 process
+    class AI model
+
+    %% Additional Styling for Rounded Shapes and Spacing
+    style A fill:#f8f9fa,stroke:#2c3e50,stroke-width:1.5px
+    style B fill:#f8f9fa,stroke:#2c3e50,stroke-width:1.5px
+    linkStyle default stroke:#6c757d,stroke-width:1.2px
 ```
 
 در مدل جدید، هوش مصنوعی می‌تواند نقش رادیولوژیست دوم را با سرعت و دقت بالا ایفا کند و تنها در موارد مشکوک یا پیچیده، نظر یک رادیولوژیست انسانی دیگر خواسته شود.
