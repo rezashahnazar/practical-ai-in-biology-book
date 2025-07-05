@@ -200,6 +200,10 @@ _روش توالی‌یابی شات‌گان (Shotgun Sequencing)_
 
 خب، این از داستان اول ما. در بخش بعدی، به این سوال مهم پاسخ خواهیم داد: **هوش مصنوعی دقیقاً چیست و چگونه کار می‌کند؟**
 
+---
+
+## **منابع**
+
 [1] https://www.yourgenome.org/theme/timeline-the-human-genome-project/
 [2] https://www.genome.gov/genetics-glossary/Base-Pair
 [3] https://en.wikipedia.org/wiki/Base_pair

@@ -203,6 +203,10 @@ flowchart TD
 
 حالا که یک درک کلی از چیستی هوش مصنوعی پیدا کردیم، در بخش بعدی به سراغ اولین ماده اولیه و مهم‌ترین بخش این پازل می‌رویم: **داده!** بیایید ببینیم "انقلاب داده" در زیست‌شناسی دقیقاً به چه معناست.
 
+---
+
+## **منابع**
+
 [1] https://meng.uic.edu/news-stories/ai-artificial-intelligence-what-is-the-definition-of-ai-and-how-does-ai-work/
 [2] https://www.techtarget.com/searchenterpriseai/definition/AI-Artificial-Intelligence
 [3] https://www.coursera.org/articles/what-is-artificial-intelligence
