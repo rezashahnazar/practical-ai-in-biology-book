@@ -185,6 +185,10 @@ flowchart TD
 
 "یادگیری" در یک شبکه عصبی، در واقع فرآیند تنظیم دقیق **وزن‌ها (Weights)** در تمام اتصالات بین نرون‌هاست[33][34]. این فرآیند از طریق الگوریتم‌هایی مانند **انتشار معکوس (Backpropagation)** و **گرادیان کاهشی (Gradient Descent)** انجام می‌شود[35][36]. در بخش بعدی، خواهیم دید که ماشین چگونه با استفاده از داده‌ها، این وزن‌ها را به گونه‌ای تنظیم می‌کند که بهترین تصمیم‌ها را بگیرد[37][38].
 
+---
+
+## **منابع**
+
 [1] https://www.brainfacts.org/in-the-lab/meet-the-researcher/2018/how-many-neurons-are-in-the-brain-120418
 [2] https://www.nature.com/scitable/blog/brain-metrics/are_there_really_as_many/
 [3] https://pmc.ncbi.nlm.nih.gov/articles/PMC2776484/

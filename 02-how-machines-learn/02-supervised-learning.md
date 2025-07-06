@@ -141,6 +141,10 @@ flowchart TD
 
 در بخش بعدی، با نوع دیگری از یادگیری آشنا می‌شویم که در آن، هیچ معلم یا پاسخنامه‌ای در کار نیست!
 
+---
+
+## **منابع**
+
 [1] https://www.geeksforgeeks.org/supervised-machine-learning/
 [2] https://en.wikipedia.org/wiki/Supervised_learning
 [3] https://encord.com/blog/mastering-supervised-learning-a-comprehensive-guide/

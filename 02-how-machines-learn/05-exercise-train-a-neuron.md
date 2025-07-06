@@ -141,6 +141,10 @@ _تصویرسازی جامع آموزش دستی شبکه عصبی تک-نرون
 
 این تمرین عملی نشان می‌دهد که چگونه ماشین‌ها می‌توانند از داده‌ها یاد بگیرند و الگوهای پیچیده را کشف کنند. در ادامه، این مفاهیم در آزمون جامع فصل دوم مورد بررسی دقیق‌تر قرار خواهند گرفت.
 
+---
+
+## **منابع**
+
 [1] https://www.geeksforgeeks.org/deep-learning/sklearn-classification-using-perceptron/
 [2] https://www.machinelearningmastery.com/perceptron-algorithm-for-classification-in-python/
 [3] https://www.geeksforgeeks.org/deep-learning/what-is-the-perceptron-rule/
