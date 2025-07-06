@@ -1,3 +1,5 @@
+[← پاسخنامه سناریو ۳](./scenario-03-answers.md) | [مقدمه فصل سوم →](../03-art-of-pattern-recognition/00-introduction.md)
+
 ## سناریوی ۴: پاسخنامه و تحلیل سوالات
 
 ### پاسخ سوال ۱
