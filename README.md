@@ -144,6 +144,6 @@
     - [پاسخنامه سناریو ۳](./07-final-exam/scenario-03-answers.md)
   - [سناریو ۴: ارزیابی مدل تشخیص پزشکی از روی تصاویر](./07-final-exam/scenario-04-questions.md)
     - [پاسخنامه سناریو ۴](./07-final-exam/scenario-04-answers.md)
-- [نتیجه‌گیری (Conclusion)](./08-conclusion.md)
+- [سخن پایانی](./08-conclusion.md)
 - [واژه‌نامه (Glossary)](./09-glossary.md)
 - [پیوست (Appendix)](./10-appendix.md)
