@@ -1,4 +1,4 @@
-[→ سخن پایانی](./08-conclusion.md) | [پیوست‌ها و منابع تکمیلی ←](./10-appendix.md)
+[→ سخن پایانی](./08-conclusion.md) | [پیوست‌ها و منابع تکمیلی ←](./10-useful-resources.md)
 
 # واژه‌نامه (Glossary)
 
