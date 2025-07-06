@@ -1,4 +1,4 @@
-[← فهرست مطالب](../README.md) | [بخش ۱-۱: داستان یک کشف: از ژنوم انسان تا پزشکی شخصی →](./01-discovery-story-genome-to-personalized-medicine.md)
+[→ فهرست مطالب](../README.md) | [بخش ۱-۱: داستان یک کشف: از ژنوم انسان تا پزشکی شخصی ←](./01-discovery-story-genome-to-personalized-medicine.md)
 
 # فصل ۱: انقلاب جدید در زیست‌شناسی: هوش مصنوعی
 

@@ -1,4 +1,4 @@
-[← بخش ۴-۳: کار با رشته‌ها: تحلیل توالی‌های DNA و پروتئین](./03-working-with-strings-dna-sequences.md) | [بخش ۴-۵: پروژه: محاسبه محتوای GC →](./05-project-gc-content-calculation.md)
+[→ بخش ۴-۳: کار با رشته‌ها: تحلیل توالی‌های DNA و پروتئین](./03-working-with-strings-dna-sequences.md) | [بخش ۴-۵: پروژه: محاسبه محتوای GC ←](./05-project-gc-content-calculation.md)
 
 # فصل ۴: اولین جعبه ابزار شما: پایتون
 

@@ -1,4 +1,4 @@
-[← سناریو ۲: سوالات](./scenario-02-questions.md) | [سناریو ۳: سوالات →](./scenario-03-questions.md)
+[→ سناریو ۲: سوالات](./scenario-02-questions.md) | [سناریو ۳: سوالات ←](./scenario-03-questions.md)
 
 # آزمون فصل ۴: سناریو ۲ - پاسخنامه و تحلیل (مولد مکمل معکوس)
 

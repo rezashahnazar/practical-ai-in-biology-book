@@ -1,4 +1,4 @@
-[← سناریو ۴: سوالات](./scenario-04-questions.md) | [فصل ۵: مقدمه →](../05-building-first-prediction-models/00-introduction.md)
+[→ سناریو ۴: سوالات](./scenario-04-questions.md) | [فصل ۵: مقدمه ←](../05-building-first-prediction-models/00-introduction.md)
 
 # آزمون فصل ۴: سناریو ۴ - پاسخنامه و تحلیل (یابنده جایگاه اتصال)
 

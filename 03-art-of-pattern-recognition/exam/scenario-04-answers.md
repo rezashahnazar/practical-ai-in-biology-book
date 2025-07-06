@@ -1,4 +1,4 @@
-[← پاسخنامه سناریو ۳](./scenario-03-answers.md) | [مقدمه فصل چهارم →](../04-your-first-toolbox-python/00-introduction.md)
+[→ پاسخنامه سناریو ۳](./scenario-03-answers.md) | [مقدمه فصل چهارم ←](../04-your-first-toolbox-python/00-introduction.md)
 
 ### پاسخنامه تشریحی سناریو ۴: تحقیق در مورد شیوع یک بیماری گوارشی
 

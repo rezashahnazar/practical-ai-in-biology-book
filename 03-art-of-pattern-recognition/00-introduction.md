@@ -1,4 +1,4 @@
-[← پاسخنامه سناریو ۴ فصل دوم](../02-how-machines-learn/exam/scenario-04-answers.md) | [بخش ۳-۱: الگوها در دنیای زنده: از اکوسیستم تا ژنوم →](./01-patterns-in-living-world.md)
+[→ پاسخنامه سناریو ۴ فصل دوم](../02-how-machines-learn/exam/scenario-04-answers.md) | [بخش ۳-۱: الگوها در دنیای زنده: از اکوسیستم تا ژنوم ←](./01-patterns-in-living-world.md)
 
 # فصل ۳: هنر شناخت الگو
 

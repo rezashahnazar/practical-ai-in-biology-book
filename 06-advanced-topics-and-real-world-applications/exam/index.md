@@ -1,6 +1,6 @@
 # فصل ششم: آزمون پایانی - مباحث پیشرفته و آینده علم داده‌های زیستی
 
-[← بخش ۶-۵: پروژه: پیش‌بینی پایداری پروتئین](../05-project-protein-stability-prediction.md) | [سناریو ۱: سوالات →](./scenario-01-questions.md)
+[→ بخش ۶-۵: پروژه: پیش‌بینی پایداری پروتئین](../05-project-protein-stability-prediction.md) | [سناریو ۱: سوالات ←](./scenario-01-questions.md)
 
 ---
 

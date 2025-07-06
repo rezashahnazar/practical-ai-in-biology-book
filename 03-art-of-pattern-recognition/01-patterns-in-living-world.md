@@ -1,4 +1,4 @@
-[← مقدمه فصل سوم](./00-introduction.md) | [بخش ۳-۲: جستجوی هوشمند در توالی‌ها: داستان BLAST →](./02-intelligent-sequence-search-blast.md)
+[→ مقدمه فصل سوم](./00-introduction.md) | [بخش ۳-۲: جستجوی هوشمند در توالی‌ها: داستان BLAST ←](./02-intelligent-sequence-search-blast.md)
 
 # فصل ۳: هنر شناخت الگو در داده‌های زیستی
 

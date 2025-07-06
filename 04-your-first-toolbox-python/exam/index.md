@@ -1,4 +1,4 @@
-[← بخش ۴-۵: پروژه: محاسبه محتوای GC](../05-project-gc-content-calculation.md) | [سناریو ۱: سوالات →](./scenario-01-questions.md)
+[→ بخش ۴-۵: پروژه: محاسبه محتوای GC](../05-project-gc-content-calculation.md) | [سناریو ۱: سوالات ←](./scenario-01-questions.md)
 
 # فصل ۴: آزمون عملی - ساخت ابزارهای بیوانفورماتیکی با پایتون
 

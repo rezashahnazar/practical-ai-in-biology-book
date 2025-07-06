@@ -1,4 +1,4 @@
-[← سناریو ۳: سوالات](./scenario-03-questions.md) | [مقدمه فصل دوم →](../02-how-machines-learn/00-introduction.md) | [پاسخنامه سناریو ۴](./scenario-04-answers.md)
+[→ سناریو ۳: سوالات](./scenario-03-questions.md) | [مقدمه فصل دوم ←](../02-how-machines-learn/00-introduction.md) | [پاسخنامه سناریو ۴](./scenario-04-answers.md)
 
 # سناریو ۴: ارزیابی پیش‌بینی ساختار پروتئین با آلفافولد
 

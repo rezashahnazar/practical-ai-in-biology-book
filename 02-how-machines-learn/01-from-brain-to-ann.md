@@ -1,4 +1,4 @@
-[← مقدمه فصل دوم](./00-introduction.md) | [بخش ۲-۲: یادگیری با معلم: یادگیری تحت نظارت (Supervised Learning) →](./02-supervised-learning.md)
+[→ مقدمه فصل دوم](./00-introduction.md) | [بخش ۲-۲: یادگیری با معلم: یادگیری تحت نظارت (Supervised Learning) ←](./02-supervised-learning.md)
 
 # فصل ۲: ماشین چگونه یاد می‌گیرد؟
 

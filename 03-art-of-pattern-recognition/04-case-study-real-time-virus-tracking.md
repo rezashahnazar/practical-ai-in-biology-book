@@ -1,4 +1,4 @@
-[← بخش ۳-۳: ساختن درخت زندگی: فیلوژنتیک مولکولی](./03-building-tree-of-life-phylogenetics.md) | [بخش ۳-۵: شبیه‌سازی: یک جستجوی BLAST روی کاغذ →](./05-simulation-blast-on-paper.md)
+[→ بخش ۳-۳: ساختن درخت زندگی: فیلوژنتیک مولکولی](./03-building-tree-of-life-phylogenetics.md) | [بخش ۳-۵: شبیه‌سازی: یک جستجوی BLAST روی کاغذ ←](./05-simulation-blast-on-paper.md)
 
 # فصل ۳: هنر الگویابی در داده‌های زیستی
 

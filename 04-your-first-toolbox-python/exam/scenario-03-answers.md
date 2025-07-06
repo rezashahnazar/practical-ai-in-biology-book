@@ -1,4 +1,4 @@
-[← سناریو ۳: سوالات](./scenario-03-questions.md) | [سناریو ۴: سوالات →](./scenario-04-questions.md)
+[→ سناریو ۳: سوالات](./scenario-03-questions.md) | [سناریو ۴: سوالات ←](./scenario-04-questions.md)
 
 # آزمون فصل ۴: سناریو ۳ - پاسخنامه و تحلیل (مترجم ساده ژن)
 

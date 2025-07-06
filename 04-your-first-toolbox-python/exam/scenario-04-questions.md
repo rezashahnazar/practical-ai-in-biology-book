@@ -1,4 +1,4 @@
-[← پاسخنامه سناریو ۳](./scenario-03-answers.md) | [پاسخنامه سناریو ۴ →](./scenario-04-answers.md)
+[→ پاسخنامه سناریو ۳](./scenario-03-answers.md) | [پاسخنامه سناریو ۴ ←](./scenario-04-answers.md)
 
 # آزمون فصل ۴: سناریو ۴ - یابنده جایگاه اتصال (Motif Finder)
 

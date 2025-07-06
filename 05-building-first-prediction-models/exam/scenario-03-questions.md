@@ -1,6 +1,6 @@
 # آزمون فصل ۵: سناریو ۳ - تفسیر عملکرد مدل: فراتر از دقت
 
-[← سناریو ۲: سوالات](./scenario-02-questions.md) | [سناریو ۴: سوالات →](./scenario-04-questions.md) | [پاسخنامه سناریو ۳](./scenario-03-answers.md)
+[→ سناریو ۲: سوالات](./scenario-02-questions.md) | [سناریو ۴: سوالات ←](./scenario-04-questions.md) | [پاسخنامه سناریو ۳](./scenario-03-answers.md)
 
 ### صورت مسئله
 

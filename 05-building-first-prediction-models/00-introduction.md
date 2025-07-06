@@ -1,4 +1,4 @@
-[← پاسخنامه سناریو ۴ فصل چهارم](../04-your-first-toolbox-python/exam/scenario-04-answers.md) | [بخش ۵-۱: کتابخانه‌های قدرتمند: NumPy، Pandas و Scikit-learn →](./01-powerful-libraries-numpy-pandas-sklearn.md)
+[→ پاسخنامه سناریو ۴ فصل چهارم](../04-your-first-toolbox-python/exam/scenario-04-answers.md) | [بخش ۵-۱: کتابخانه‌های قدرتمند: NumPy، Pandas و Scikit-learn ←](./01-powerful-libraries-numpy-pandas-sklearn.md)
 
 # فصل ۵: ساخت اولین مدل‌های پیش‌بینی
 

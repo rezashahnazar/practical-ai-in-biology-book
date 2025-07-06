@@ -1,4 +1,4 @@
-[← پاسخنامه سناریو ۲](./scenario-02-answers.md) | [پاسخنامه سناریو ۳ →](./scenario-03-answers.md)
+[→ پاسخنامه سناریو ۲](./scenario-02-answers.md) | [پاسخنامه سناریو ۳ ←](./scenario-03-answers.md)
 
 # آزمون فصل ۴: سناریو ۳ - مترجم ساده ژن
 

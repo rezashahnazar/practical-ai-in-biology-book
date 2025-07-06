@@ -1,4 +1,4 @@
-[← بخش ۴-۱: سلام، دنیای پایتون! آشنایی با Python و Google Colab](./01-hello-python-world.md) | [بخش ۴-۳: کار با رشته‌ها: توالی DNA به عنوان متن →](./03-working-with-strings-dna-sequences.md)
+[→ بخش ۴-۱: سلام، دنیای پایتون! آشنایی با Python و Google Colab](./01-hello-python-world.md) | [بخش ۴-۳: کار با رشته‌ها: توالی DNA به عنوان متن ←](./03-working-with-strings-dna-sequences.md)
 
 # فصل ۴: اولین جعبه ابزار شما: پایتون
 

@@ -1,4 +1,4 @@
-[← پاسخنامه سناریو ۴ فصل اول](../01-ai-revolution-in-biology/exam/scenario-04-answers.md) | [بخش ۲-۱: از مغز انسان تا مغز مصنوعی: داستان شبکه‌های عصبی →](./01-from-brain-to-ann.md)
+[→ پاسخنامه سناریو ۴ فصل اول](../01-ai-revolution-in-biology/exam/scenario-04-answers.md) | [بخش ۲-۱: از مغز انسان تا مغز مصنوعی: داستان شبکه‌های عصبی ←](./01-from-brain-to-ann.md)
 
 # فصل ۲: ماشین چگونه یاد می‌گیرد؟
 

@@ -1,4 +1,4 @@
-[← پاسخنامه سناریو ۱](./scenario-01-answers.md) | [پاسخنامه سناریو ۳ →](./scenario-03-answers.md)
+[→ پاسخنامه سناریو ۱](./scenario-01-answers.md) | [پاسخنامه سناریو ۳ ←](./scenario-03-answers.md)
 
 ## سناریوی ۲: پاسخنامه و تحلیل سوالات
 

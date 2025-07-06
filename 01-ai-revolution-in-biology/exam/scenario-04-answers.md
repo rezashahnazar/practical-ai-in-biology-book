@@ -1,4 +1,4 @@
-[← پاسخنامه سناریو ۳](./scenario-03-answers.md) | [مقدمه فصل دوم →](../02-how-machines-learn/00-introduction.md)
+[→ پاسخنامه سناریو ۳](./scenario-03-answers.md) | [مقدمه فصل دوم ←](../02-how-machines-learn/00-introduction.md)
 
 # پاسخنامه و تحلیل سناریو ۴: ارزیابی پیش‌بینی ساختار پروتئین
 

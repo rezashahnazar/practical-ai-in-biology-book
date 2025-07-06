@@ -1,4 +1,4 @@
-[← پاسخنامه سناریو ۱](./scenario-01-answers.md) | [پاسخنامه سناریو ۲ →](./scenario-02-answers.md)
+[→ پاسخنامه سناریو ۱](./scenario-01-answers.md) | [پاسخنامه سناریو ۲ ←](./scenario-02-answers.md)
 
 # آزمون فصل ۴: سناریو ۲ - مولد مکمل معکوس
 

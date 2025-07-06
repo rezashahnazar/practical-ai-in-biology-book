@@ -1,4 +1,4 @@
-[← سناریو ۳: سوالات](./scenario-03-questions.md) | [فصل چهارم: مقدمه →](../04-your-first-toolbox-python/01-introduction.md) | [پاسخنامه سناریو ۴](./scenario-04-answers.md)
+[→ سناریو ۳: سوالات](./scenario-03-questions.md) | [فصل چهارم: مقدمه ←](../04-your-first-toolbox-python/01-introduction.md) | [پاسخنامه سناریو ۴](./scenario-04-answers.md)
 
 ### سناریو ۴: تحقیق در مورد شیوع یک بیماری گوارشی
 

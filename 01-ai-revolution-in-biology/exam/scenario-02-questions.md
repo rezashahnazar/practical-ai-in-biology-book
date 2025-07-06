@@ -1,4 +1,4 @@
-[← سناریو ۱: سوالات](./scenario-01-questions.md) | [سناریو ۳: سوالات →](./scenario-03-questions.md) | [پاسخنامه سناریو ۲](./scenario-02-answers.md)
+[→ سناریو ۱: سوالات](./scenario-01-questions.md) | [سناریو ۳: سوالات ←](./scenario-03-questions.md) | [پاسخنامه سناریو ۲](./scenario-02-answers.md)
 
 # سناریو ۲: کشف تقلب در غذا با DNA Barcoding
 

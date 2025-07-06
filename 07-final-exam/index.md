@@ -1,4 +1,4 @@
-[← پاسخنامه سناریو ۴ فصل ششم](../06-advanced-topics-and-real-world-applications/exam/scenario-04-answers.md) | [نتیجه‌گیری و آینده هوش مصنوعی در زیست‌شناسی →](../08-conclusion.md)
+[→ پاسخنامه سناریو ۴ فصل ششم](../06-advanced-topics-and-real-world-applications/exam/scenario-04-answers.md) | [نتیجه‌گیری و آینده هوش مصنوعی در زیست‌شناسی ←](../08-conclusion.md)
 
 # فصل هفتم: آزمون جامع نهایی
 

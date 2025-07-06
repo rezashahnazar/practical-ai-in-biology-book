@@ -1,4 +1,4 @@
-[← آزمون فصل سوم](./index.md) | [سناریو ۲: سوالات →](./scenario-02-questions.md) | [پاسخنامه سناریو ۱](./scenario-01-answers.md)
+[→ آزمون فصل سوم](./index.md) | [سناریو ۲: سوالات ←](./scenario-02-questions.md) | [پاسخنامه سناریو ۱](./scenario-01-answers.md)
 
 ### سناریو ۱: رمزگشایی از ژل الکتروفورز
 

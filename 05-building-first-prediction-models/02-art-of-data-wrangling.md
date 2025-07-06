@@ -1,4 +1,4 @@
-[← بخش ۵-۱: کتابخانه‌های قدرتمند: NumPy، Pandas و Scikit-learn](./01-powerful-libraries-numpy-pandas-sklearn.md) | [بخش ۵-۳: اولین مدل طبقه‌بندی شما: الگوریتم K-نزدیک‌ترین همسایه (KNN) →](./03-first-classification-model-knn.md)
+[→ بخش ۵-۱: کتابخانه‌های قدرتمند: NumPy، Pandas و Scikit-learn](./01-powerful-libraries-numpy-pandas-sklearn.md) | [بخش ۵-۳: اولین مدل طبقه‌بندی شما: الگوریتم K-نزدیک‌ترین همسایه (KNN) ←](./03-first-classification-model-knn.md)
 
 # فصل ۵: ساخت اولین مدل‌های پیش‌بینی: از داده تا تشخیص
 

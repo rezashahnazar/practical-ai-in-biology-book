@@ -1,4 +1,4 @@
-[← پاسخنامه سناریو ۴ فصل سوم](../03-art-of-pattern-recognition/exam/scenario-04-answers.md) | [بخش ۴-۱: سلام، دنیای پایتون! آشنایی با محیط برنامه‌نویسی →](./01-hello-python-world.md)
+[→ پاسخنامه سناریو ۴ فصل سوم](../03-art-of-pattern-recognition/exam/scenario-04-answers.md) | [بخش ۴-۱: سلام، دنیای پایتون! آشنایی با محیط برنامه‌نویسی ←](./01-hello-python-world.md)
 
 # فصل ۴: اولین جعبه ابزار شما: پایتون
 

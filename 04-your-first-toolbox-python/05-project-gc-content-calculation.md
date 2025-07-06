@@ -1,4 +1,4 @@
-[← بخش ۴-۴: منطق ماشین: حلقه‌ها و شرط‌ها](./04-machine-logic-loops-and-conditions.md) | [آزمون فصل چهارم →](./exam/index.md)
+[→ بخش ۴-۴: منطق ماشین: حلقه‌ها و شرط‌ها](./04-machine-logic-loops-and-conditions.md) | [آزمون فصل چهارم ←](./exam/index.md)
 
 # فصل ۴: اولین جعبه ابزار شما: پایتون
 

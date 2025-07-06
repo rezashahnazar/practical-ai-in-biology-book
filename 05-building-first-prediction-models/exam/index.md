@@ -1,4 +1,4 @@
-[← بخش ۵-۵: پروژه: ساخت مدل تشخیص سرطان](../05-project-cancer-detection-model.md) | [سناریو ۱: سوالات →](./scenario-01-questions.md)
+[→ بخش ۵-۵: پروژه: ساخت مدل تشخیص سرطان](../05-project-cancer-detection-model.md) | [سناریو ۱: سوالات ←](./scenario-01-questions.md)
 
 # فصل ۵: آزمون جامع - ساخت یک خط لوله تشخیص پزشکی
 

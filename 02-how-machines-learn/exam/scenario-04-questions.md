@@ -1,4 +1,4 @@
-[← سناریو ۳: سوالات](./scenario-03-questions.md) | [پاسخنامه سناریو ۱ →](./scenario-01-answers.md) | [پاسخنامه سناریو ۴](./scenario-04-answers.md)
+[→ سناریو ۳: سوالات](./scenario-03-questions.md) | [پاسخنامه سناریو ۱ ←](./scenario-01-answers.md) | [پاسخنامه سناریو ۴](./scenario-04-answers.md)
 
 ## سناریوی ۴: تشخیص پروموترهای باکتریایی
 

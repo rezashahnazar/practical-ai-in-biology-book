@@ -1,4 +1,4 @@
-[← سناریو ۱: سوالات](./scenario-01-questions.md) | [پاسخنامه سناریو ۲ →](./scenario-02-answers.md)
+[→ سناریو ۱: سوالات](./scenario-01-questions.md) | [پاسخنامه سناریو ۲ ←](./scenario-02-answers.md)
 
 # پاسخنامه و تحلیل سناریو ۱: پزشکی شخصی‌سازی‌شده
 

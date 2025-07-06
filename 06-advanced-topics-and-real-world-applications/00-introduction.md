@@ -1,4 +1,4 @@
-[← پاسخنامه سناریو ۴ فصل پنجم](../05-building-first-prediction-models/exam/scenario-04-answers.md) | [بخش ۶-۱: پیش‌بینی مقادیر پیوسته: مدل‌های رگرسیون →](./01-predicting-continuous-values-regression.md)
+[→ پاسخنامه سناریو ۴ فصل پنجم](../05-building-first-prediction-models/exam/scenario-04-answers.md) | [بخش ۶-۱: پیش‌بینی مقادیر پیوسته: مدل‌های رگرسیون ←](./01-predicting-continuous-values-regression.md)
 
 # فصل ۶: مباحث پیشرفته و کاربردهای دنیای واقعی
 

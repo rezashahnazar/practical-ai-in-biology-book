@@ -1,4 +1,4 @@
-[← سناریو ۲: سوالات](./scenario-02-questions.md) | [سناریو ۴: سوالات →](./scenario-04-questions.md) | [پاسخنامه سناریو ۳](./scenario-03-answers.md)
+[→ سناریو ۲: سوالات](./scenario-02-questions.md) | [سناریو ۴: سوالات ←](./scenario-04-questions.md) | [پاسخنامه سناریو ۳](./scenario-03-answers.md)
 
 # سناریو ۳: معضل اخلاقی استفاده دوگانه از هوش مصنوعی
 

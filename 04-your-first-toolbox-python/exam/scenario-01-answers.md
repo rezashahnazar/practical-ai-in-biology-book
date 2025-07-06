@@ -1,4 +1,4 @@
-[← سناریو ۱: سوالات](./scenario-01-questions.md) | [سناریو ۲: سوالات →](./scenario-02-questions.md)
+[→ سناریو ۱: سوالات](./scenario-01-questions.md) | [سناریو ۲: سوالات ←](./scenario-02-questions.md)
 
 # آزمون فصل ۴: سناریو ۱ - پاسخنامه و تحلیل (تحلیلگر توالی DNA)
 
