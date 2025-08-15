@@ -8024,11 +8024,11 @@ CNNها برای تحلیل داده‌های شبکه‌ای (Grid-like data) �
 
 ```mermaid
 graph TD
-    A[تصویر ورودی] --> B{لایه کانولوشن(استخراج ویژگی)}
-    B --> C{لایه تجمعی (Pooling)(کاهش ابعاد)}
+    A[Input Image] --> B{Convolution Layer<br/>Feature Extraction}
+    B --> C{Pooling Layer<br/>Dimension Reduction}
     C --> B
-    C --> D[لایه کاملاً متصل(تصمیم‌گیری نهایی)]
-    D --> E[خروجی: "سرطانی" یا "سالم"]
+    C --> D[Fully Connected Layer<br/>Final Decision]
+    D --> E[Output: Cancer or Healthy]
 ```
 
 #### ۲. شبکه‌های عصبی بازگشتی (Recurrent Neural Networks – RNN)
@@ -8151,10 +8151,10 @@ graph TD
 
 ```mermaid
 graph TD
-    A[نویز تصادفی] --> B(شبکه مولد"جاعل");
-    B -- "مولکول جعلی" --> D{شبکه تمایزدهنده"کارآگاه"};
-    C[پایگاه داده مولکول‌های واقعی] -- "مولکول واقعی" --> D;
-    D -- "بازخورد: واقعی یا جعلی" --> B;
+    A[Random Noise] --> B(Generator Network)
+    B -- Fake Molecule --> D{Discriminator Network}
+    C[Real Molecules Database] -- Real Molecule --> D
+    D -- Feedback: Real or Fake --> B
 ```
 
 ### 🔬 تمرین تحلیلی: تفکر مولد
