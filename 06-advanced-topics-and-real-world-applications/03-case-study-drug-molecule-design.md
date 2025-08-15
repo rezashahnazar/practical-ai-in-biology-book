@@ -39,10 +39,10 @@
 
 ```mermaid
 graph TD
-    A[نویز تصادفی] --> B(شبکه مولد"جاعل");
-    B -- "مولکول جعلی" --> D{شبکه تمایزدهنده"کارآگاه"};
-    C[پایگاه داده مولکول‌های واقعی] -- "مولکول واقعی" --> D;
-    D -- "بازخورد: واقعی یا جعلی" --> B;
+    A[Random Noise] --> B(Generator Network)
+    B -- Fake Molecule --> D{Discriminator Network}
+    C[Real Molecules Database] -- Real Molecule --> D
+    D -- Feedback: Real or Fake --> B
 ```
 
 ### 🔬 تمرین تحلیلی: تفکر مولد
